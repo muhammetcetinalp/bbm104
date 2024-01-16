@@ -1,0 +1,20 @@
+Game board:
+B W O H D
+G G R P Y
+G Y Y L P
+W L R D D
+L * Y W P
+
+Your optimal path is:
+R U U L U R R R
+
+Number of movements: 8
+
+Your output is:
+B W O H D
+G X X X *
+G G X L P
+W L X D D
+L X X W P
+
+Best score: 40
